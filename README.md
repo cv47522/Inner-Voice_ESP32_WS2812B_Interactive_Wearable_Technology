@@ -3,7 +3,7 @@
 - Wearable Technology and Functional Wear Study Project.
 - Materials: ESP32 / Flora RGB Smart NeoPixel / Conductive Fabrics & Yarns
 - Language: Arduino
-- **More details of the project (Demo Video): https://wantinghsieh.com/inner-voice-learning-diary/**
+- **More details of the project (Demo Video): https://wantinghsieh.com/inner-voice**
 
 ---
 
